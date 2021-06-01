@@ -1,4 +1,4 @@
-# tela de cotação do app do Santander, feito com Java e angular
+# Tela de cotação do app do Santander, feito com Java e angular
 
 Alguns conceitos vistos e aplicados neste projeto
 
