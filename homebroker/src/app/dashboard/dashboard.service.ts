@@ -9,7 +9,7 @@ export class DashboardService {
 
 
 
-  readonly baseUrl = 'http://sergjun-bootcamp-santander.herokuapp.com/bootcamp';
+  readonly baseUrl = 'https://sergjun-bootcamp-santander.herokuapp.com/bootcamp';
 
   constructor(private http: HttpClient) { }
 
